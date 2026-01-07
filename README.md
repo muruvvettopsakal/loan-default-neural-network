@@ -81,8 +81,8 @@ Aşağıdaki grafikte, modelin eğitim süreci boyunca kayıp (loss) değerinin 
 
 📊 Training Loss Curve
 
-figures/training_loss.png
-
+![Accuracy<img width="477" height="360" alt="Ekran görüntüsü 2026-01-08 012119" src="https://github.com/user-attachments/assets/61a83a48-ebf0-4f7d-a4ce-d2b64170f4e2" />
+](images/accuracy.png)
 Bu grafik, modelin öğrenme sürecini ve optimizasyon davranışını görsel olarak sunmaktadır.
 
 🔹 Confusion Matrix
@@ -91,8 +91,8 @@ Modelin test verisi üzerindeki sınıflandırma performansı aşağıdaki confu
 
 📊 Confusion Matrix
 
-figures/confusion_matrix.png
-
+![Loss](imag<img width="479" height="359" alt="Ekran görüntüsü 2026-01-08 012040" src="https://github.com/user-attachments/assets/88bd99f9-9d38-44b8-8c3b-2aa0a5e23c7f" />
+es/loss.png)
 🔹 Başarı Metrikleri
 
 Accuracy:
