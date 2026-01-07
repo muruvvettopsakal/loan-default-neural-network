@@ -81,8 +81,8 @@ Aşağıdaki grafikte, modelin eğitim süreci boyunca kayıp (loss) değerinin 
 
 📊 Training Loss Curve
 
-![Accuracy<img width="477" height="360" alt="Ekran görüntüsü 2026-01-08 012119" src="https://github.com/user-attachments/assets/61a83a48-ebf0-4f7d-a4ce-d2b64170f4e2" />
-](images/accuracy.png)
+<img width="477" height="360" alt="Ekran görüntüsü 2026-01-08 012119" src="https://github.com/user-attachments/assets/0dcdc21f-e2b4-4bd5-b9e9-9321b573283d" />
+
 Bu grafik, modelin öğrenme sürecini ve optimizasyon davranışını görsel olarak sunmaktadır.
 
 🔹 Confusion Matrix
@@ -91,11 +91,11 @@ Modelin test verisi üzerindeki sınıflandırma performansı aşağıdaki confu
 
 📊 Confusion Matrix
 
-![Loss](imag<img width="479" height="359" alt="Ekran görüntüsü 2026-01-08 012040" src="https://github.com/user-attachments/assets/88bd99f9-9d38-44b8-8c3b-2aa0a5e23c7f" />
-es/loss.png)
+
 🔹 Başarı Metrikleri
 
 Accuracy:
+<img width="479" height="359" alt="Ekran görüntüsü 2026-01-08 012040" src="https://github.com/user-attachments/assets/d08465d0-bb0e-4053-a955-f01fa2736cb8" />
 
 0.8858
 
@@ -123,7 +123,7 @@ Matplotlib
 5️⃣ GitHub Repository
 
 🔗 GitHub Linki:
-👉 BURAYA KENDİ GITHUB LİNKİNİ EKLE
+👉(https://github.com/muruvvettopsakal/loan-default-neural-network)
 
 6️⃣ Sonuç
 
