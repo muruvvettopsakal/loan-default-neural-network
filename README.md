@@ -1,4 +1,5 @@
 Loan Default Prediction Using Neural Networks
+
 1️⃣ Veri Seti Açıklaması
 
 Bu projede, Kaggle Loan Default Dataset kullanılmıştır. Veri seti, bireylerin demografik bilgileri, finansal durumları ve kredi özelliklerine göre kredi temerrüt (default) riskinin tahmin edilmesini amaçlamaktadır.
